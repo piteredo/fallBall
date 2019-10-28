@@ -1,7 +1,7 @@
 final int FPS = 60;
 final int SCREEN_WIDTH = 1024;
 final int SCREEN_HEIGHT = 768;
-final int BG_COLOR = 0;
+final color BG_COLOR = color(20, 50, 90);
 final int TEXT_COLOR = 200;
 final int TEXT_SIZE = 36;
 int ballLength = 15;
